@@ -9,5 +9,4 @@
 
 <style>
     /* CSS HERE (Mainly for #app) */
-
 </style>
